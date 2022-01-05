@@ -251,7 +251,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Chat-spot</h4>
-                <p>client name</p>
+                <p>Technologies used: React.js, javascript </p>
               </div>
             </article>
           </a>
@@ -266,7 +266,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Quick_share</h4>
-                <p>client name</p>
+                <p>Technologies used: React.js, javascript, Python, Flask, SQL Postgres </p>
               </div>
             </article>
           </a>
@@ -281,7 +281,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Goal_planner</h4>
-                <p>client name</p>
+                <p>Technologies used: React.js, javascript, Node.js, Express.Js and MongoDB</p>
               </div>
             </article>
           </a>
@@ -296,7 +296,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>project title</h4>
-                <p>client name</p>
+                <p>React.js, javascript, Node.js, Express.Js and MongoDB</p>
               </div>
             </article>
           </a>

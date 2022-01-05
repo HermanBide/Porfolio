@@ -5,7 +5,7 @@ import Home from './Components/Home';
 import AboutMe from './Components/AboutMe';
 import Contact from './Components/Contact';
 // import Projects from './Components/Projects'
-import { BrowserRouter as Router, Switch, Route, redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 
 

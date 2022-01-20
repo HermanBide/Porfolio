@@ -67,12 +67,6 @@ export default function Home() {
               <Link to="/">home</Link>
             </li>
             <li>
-              <Link to="/AboutMe">About</Link>
-            </li>
-            {/* <li>
-              <Link to="/Projects">projects</Link>
-            </li> */}
-            <li>
               <Link to="/Contact">contact</Link>
             </li>
           </ul>
@@ -198,7 +192,7 @@ export default function Home() {
         <div className="services-center section-center">
           <article className="service">
             <CodeIcon className="i" />
-            <h4>web development</h4>
+            <h4>Web development</h4>
             <div className="underline"></div>
             <p>
               Develop dynamic and friendly user-interractive web applications and softwares
@@ -208,7 +202,7 @@ export default function Home() {
 
           <article className="service">
             <BrushIcon className="i" />
-            <h4>web design</h4>
+            <h4>Web design</h4>
             <div className="underline"></div>
             <p>
               Develop aesthetically, simple and plesant experience for navigation with a strong understanding of user interface design both on desktop and mobile.; 
@@ -287,7 +281,7 @@ export default function Home() {
           </a>
 
           {/* single project */}
-          <a href="Projects" className="project-4">
+          {/* <a href="Projects" className="project-4">
             <article className="project">
               <img
                 src="./images/project-4.jpeg"
@@ -299,7 +293,7 @@ export default function Home() {
                 <p>React.js, javascript, Node.js, Express.Js and MongoDB</p>
               </div>
             </article>
-          </a>
+          </a> */}
         </div>
       </section>
 
@@ -312,7 +306,7 @@ export default function Home() {
 
         <div className="section-center skills-center">
           <article>
-            <h3>Langauges</h3>
+            <h3>Languages</h3>
             {/* single skill */}
             <div className="skill">
               <p>HTML5</p>
@@ -333,7 +327,7 @@ export default function Home() {
             </div>
           </article>
           <article>
-            <h3>Framwork</h3>
+            <h3>Framework</h3>
             {/* single skill */}
             <div className="skill">
               <p>Node.Js</p>
@@ -377,6 +371,10 @@ export default function Home() {
 
             <div className="skill">
               <p>MongoDB</p>
+            </div>
+
+            <div className="skill">
+              <p>SQL Postgres</p>
             </div>
 
             {/* single skill */}

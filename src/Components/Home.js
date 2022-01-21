@@ -227,7 +227,7 @@ export default function Home() {
           <div className="underline"></div>
           <p className="projects-text">
             Applying full-stack frameworks such as React, Express/Node,
-            Flask/Njango Python, javascript and database(MongoDB, PostSQL).
+            Flask/Django Python, javascript and database(MongoDB, PostgresSQL).
             Applying Restful services and REST Api development all while
             building and maintaining applications.
           </p>
@@ -260,7 +260,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Quick_share</h4>
-                <p>Technologies used: React.js, JavaScript, Python, Flask, SQL Postgres </p>
+                <p>Technologies used: React.js, JavaScript, Python, Flask, PostgresSQL </p>
               </div>
             </article>
           </a>
@@ -374,7 +374,7 @@ export default function Home() {
             </div>
 
             <div className="skill">
-              <p>SQL Postgres</p>
+              <p>PostgresSQL</p>
             </div>
 
             {/* single skill */}

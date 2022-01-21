@@ -260,7 +260,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Quick_share</h4>
-                <p>Technologies used: React.js, javascript, Python, Flask, SQL Postgres </p>
+                <p>Technologies used: React.js, JavaScript, Python, Flask, SQL Postgres </p>
               </div>
             </article>
           </a>
@@ -275,7 +275,7 @@ export default function Home() {
               />
               <div className="project-info">
                 <h4>Goal_planner</h4>
-                <p>Technologies used: React.js, javascript, Node.js, Express.Js and MongoDB</p>
+                <p>Technologies used: React.js, JavaScript, Node.js, Express.Js and MongoDB</p>
               </div>
             </article>
           </a>
@@ -318,7 +318,7 @@ export default function Home() {
 
             {/* single skill */}
             <div className="skill">
-              <p>Javascript</p>
+              <p>JavaScript</p>
             </div>
 
             {/* single skill */}
@@ -337,7 +337,7 @@ export default function Home() {
             </div>
 
             <div className="skill">
-              <p>django</p>
+              <p>Django</p>
             </div>
 
             <div className="skill">

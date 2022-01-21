@@ -71,7 +71,6 @@ export default function AboutMe() {
             <ul className="sidebar-links">
                     <li><Link to="/">home</Link></li>
                     <li><Link to="/AboutMe">About</Link></li>
-                    <li><Link to="/Projects">projects</Link></li>
                     <li><Link to="/Contact">contact</Link></li>
             </ul>
             <ul className="social-icons">
